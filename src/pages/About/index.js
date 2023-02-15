@@ -116,13 +116,14 @@ function About() {
                 <h5>Check, Connect, and Respect Mentor</h5>
                 <p>
                   Coordinated with a small team that checked in with high risk
-                  sstudents at a local high school to promote better academic
-                  and social engagement.
+                  students at a local high school to promote better academic and
+                  social engagement.
                 </p>
                 <h4>Nikka Ramen</h4>
                 <h5>Assistant Manager</h5>
                 <p>
-                  Integrated 3 new software systems into the workforce. Trained and managed a team of 15 workers. 
+                  Integrated 3 new software systems into the workforce. Trained
+                  and managed a team of 15 workers.
                 </p>
               </section>
             </div>

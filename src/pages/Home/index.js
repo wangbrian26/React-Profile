@@ -11,10 +11,13 @@ function Home() {
             <p>
               A full stack developer who aims to learn and
               <br />
-              develop in order to create programs for students
+              develop, in order to create future programs for students
               <br />
-              and teachers improve their learning experience.
+              and teachers to improve their learning experience.
             </p>
+            <h4>
+              A full stack developer who aims to learn and develop in order to create programs for students and teachers to improve their learning experience.
+            </h4>
           </header>
           <span class="image">
             <img src="/images/Brian.JPG" alt="Brian Wang" />

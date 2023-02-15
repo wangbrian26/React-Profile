@@ -45,7 +45,7 @@
     '<div id="titleBar">' +
       '<a href="#navPanel" class="toggle"></a>' +
       '<span class="title">' +
-      "BWang Portfolio" +
+      "Brian Wang's Portfolio" +
       "</span>" +
       "</div>"
   ).appendTo($body);

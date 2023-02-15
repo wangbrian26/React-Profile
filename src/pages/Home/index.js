@@ -16,12 +16,42 @@ function Home() {
               and teachers to improve their learning experience.
             </p>
             <h4>
-              A full stack developer who aims to learn and develop in order to create programs for students and teachers to improve their learning experience.
+              A full stack developer who aims to learn and develop in order to
+              create programs for students and teachers to improve their
+              learning experience.
             </h4>
           </header>
           <span class="image">
             <img src="/images/Brian.JPG" alt="Brian Wang" />
           </span>
+          <ul class="icons">
+            <li>
+              <a
+                href="http://www.linkedin.com/in/wangbrian26"
+                target="_blank"
+                class="icon brands alt fa-linkedin-in"
+              >
+                <span class="label">LinkedIn</span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="http://www.github.com/wangbrian26"
+                target="_blank"
+                class="icon brands alt fa-github"
+              >
+                <span class="label">GitHub</span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="mailto: brian.wang.19@tfacorps.org"
+                class="icon solid alt fa-envelope"
+              >
+                <span class="label">Email</span>
+              </a>
+            </li>
+          </ul>
         </div>
         <a href="#skills" class="goto-next scrolly">
           Next

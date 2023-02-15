@@ -3538,6 +3538,14 @@ input, select, textarea {
 					margin-top: -100px;
 				}
 
+				#banner .content .icons {
+					display: flex;
+					align-items: center;
+					justify-content: flex-end;
+					margin-top: 1em;
+					margin-right: 5em;
+				}
+
 	body.is-touch #banner {
 		background-attachment: scroll;
 	}
@@ -3748,6 +3756,12 @@ input, select, textarea {
 						margin: 0;
 					}
 
+					#banner .content .icons {
+						display: flex;
+						justify-content: center;
+						margin-right: 0em;
+					}
+
 		/* Footer */
 
 			#footer {
@@ -3790,9 +3804,6 @@ input, select, textarea {
 
 			header p {
 				display: none;
-			}
-			#banner .content header h4 {
-					display: block;
 			}
 
 			header h2 + p + h4 {
@@ -3867,6 +3878,10 @@ input, select, textarea {
 						font-size: 1.5em;
 					}
 
+					#banner .content header h4 {
+						display: block;
+					}
+
 					#banner .content .image {
 						height: 9em;
 						width: 9em;
@@ -3874,6 +3889,8 @@ input, select, textarea {
 						#banner .content .image img {
 							margin-top: -50px;
 						}
+					
+
 
 		/* Nav */
 

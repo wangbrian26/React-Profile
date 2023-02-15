@@ -122,7 +122,7 @@ function About() {
                 <h4>Nikka Ramen</h4>
                 <h5>Assistant Manager</h5>
                 <p>
-                  Integrated 3 new software systems into the workforce.
+                  Integrated 3 new software systems into the workforce. Trained and managed a team of 15 workers. 
                 </p>
               </section>
             </div>

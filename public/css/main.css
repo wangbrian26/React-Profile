@@ -3080,6 +3080,7 @@ input, select, textarea {
 		
 		.spotlight .image.main img {
 			position: relative;
+
 			}
 
 		.spotlight .content {
@@ -3535,7 +3536,8 @@ input, select, textarea {
 					/* border-radius: 100%; */
 					display: block;
 					width: 100%;
-					margin-top: -100px;
+					margin-top: -40px;
+					margin-right: -50px;
 				}
 
 				#banner .content .icons {
@@ -3694,6 +3696,9 @@ input, select, textarea {
 					overflow: hidden;
 				}
 
+				.spotlight .image.main img {
+					margin-top: 0.5em;
+				}
 				.spotlight .content {
 					background-color: #1c1d26;
 					border-width: 0 !important;
@@ -3840,6 +3845,10 @@ input, select, textarea {
 
 				.spotlight .image.main {
 					max-height: 60vh;
+				}
+
+				.spotlight .image.main img {
+					margin-top: 1em;
 				}
 
 				.spotlight .content {
@@ -4111,6 +4120,9 @@ input, select, textarea {
 				max-height: 50vh;
 			}
 
+			.spotlight .image.main img {
+				margin-top: 2em;
+			}
 			.spotlight .content {
 				padding: 3em 1.25em 1em 1.25em !important;
 			}

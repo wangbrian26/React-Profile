@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 function Home() {
+  window.scrollTo(0, 0);
   return (
     <>
       <section id="banner">
@@ -22,7 +23,7 @@ function Home() {
             </h4>
           </header>
           <span class="image">
-            <img src="/images/Brian.JPG" alt="Brian Wang" />
+            <img src="/images/BrianTwo.PNG" alt="Brian Wang" />
           </span>
           <ul class="icons">
             <li>

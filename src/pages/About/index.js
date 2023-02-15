@@ -1,6 +1,7 @@
 import React from "react";
 
 function About() {
+  window.scrollTo(0, 0);
   return (
     <>
       <section id="one" class="spotlight style1 bottom">

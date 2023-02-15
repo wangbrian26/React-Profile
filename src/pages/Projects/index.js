@@ -1,6 +1,7 @@
 import React from "react";
 
 function About() {
+  window.scrollTo(0, 0);
   return (
     <>
       <section id="petPals" class="spotlight style2 right">

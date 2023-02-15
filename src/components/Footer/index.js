@@ -6,29 +6,11 @@ function Footer() {
       <ul class="icons">
         <li>
           <a
-            href="http://www.facebook.com/wangbrian26"
-            target="_blank"
-            class="icon brands alt fa-facebook-f"
-          >
-            <span class="label">Facebook</span>
-          </a>
-        </li>
-        <li>
-          <a
             href="http://www.linkedin.com/in/wangbrian26"
             target="_blank"
             class="icon brands alt fa-linkedin-in"
           >
             <span class="label">LinkedIn</span>
-          </a>
-        </li>
-        <li>
-          <a
-            href="http://www.instagram.com/wangbrian26"
-            target="_blank"
-            class="icon brands alt fa-instagram"
-          >
-            <span class="label">Instagram</span>
           </a>
         </li>
         <li>

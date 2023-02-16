@@ -10,16 +10,14 @@ function Home() {
           <header>
             <h2>Brian Wang</h2>
             <p>
-              A full stack developer who aims to learn and
+              Hi! I am a full stack developer who aims to learn and
               <br />
               develop, in order to create future programs for students
               <br />
               and teachers to improve their learning experience.
             </p>
             <h4>
-              A full stack developer who aims to learn and develop in order to
-              create programs for students and teachers to improve their
-              learning experience.
+              Hi! I am a full stack developer who aims to learn and develop in order to create programs for students and teachers to improve their learning experience.
             </h4>
           </header>
           <span class="image">
